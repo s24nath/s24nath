@@ -1,5 +1,5 @@
 # Hi, I'm Sutriptim Nath
-**Senior Frontend Engineer | JavaScript, React, & Node.js**
+**Senior Frontend Engineer | JavaScript, TypeScript, & Node.js**
 
 I build scalable, data-driven applications. With 5 years of experience across the JavaScript ecosystem, I focus on bridging complex business logic with clean, maintainable, and highly performant user interfaces.
 
